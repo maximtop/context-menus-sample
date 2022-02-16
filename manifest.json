@@ -1,0 +1,12 @@
+{
+    "manifest_version": 2,
+    "name": "ContextMenus sample",
+    "version": "0.0.1",
+    "description": "ContextMenus sample",
+    "background": {
+        "scripts": ["background.js"]
+    },
+    "permissions": [
+        "contextMenus"
+    ]
+}
